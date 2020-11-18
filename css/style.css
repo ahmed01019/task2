@@ -1,0 +1,96 @@
+
+body{
+    background-color: darkorange;
+    background-image: url(altitude-clouds-cold-933054.jpg);
+    background-repeat: no-repeat;
+    background-attachment:scroll;
+    background-position: 50% 0%;
+    overflow: hidden;
+    
+}
+#title1{
+    margin-left: 100px;
+    font-size: 50px
+}
+#divone{
+    height: 1200px;
+    width: 1000px;
+    background-attachment: scroll;
+    background-color: white;
+    margin-left: 1050px;
+    margin-top: 50px;
+}
+#form1{
+   height: 1000px;
+    width: 700px;
+    margin-left:150px;
+    border-radius: 7%;
+    border: 10px solid gray;
+    text-align: center;
+    line-height: 80px;
+    
+}
+#Mainlabel{
+    font-size: 80px;
+    font-family: cursive;
+    color: blue;
+}
+#sublabel{
+    font-size: 60px;
+}
+#inputus{
+height: 80px;
+width: 600px;
+border-style: solid;
+font-size: 50px;
+    text-align: center;
+    border-radius: 100px;
+}
+#inputpas{
+height: 80px;
+width: 600px;
+    
+  text-align: center; 
+border-style: solid;
+font-size: 50px;
+     border-radius: 100px;
+}
+#login{
+height: 80px;
+width: 600px;
+border-style: solid;
+font-size: 50px; 
+    text-align: center;
+     border-radius: 100px;
+    background: blue;
+    cursor: alias;
+}
+
+.bar{
+    position: fixed;
+    top: 0;
+    left: 80%;
+    width:19%;
+    height: 100%;
+    background: blue;
+    opacity: 60%;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+ul{
+    margin-top: 200px;
+}
+
+ul li{
+    list-style-type: none;
+    margin: 50px;
+}
+
+ul li a{
+    text-decoration: none;
+    font-size: 50px;
+    color: white;
+}
